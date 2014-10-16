@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[agn:home|Door43 (agn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-agn|d43-agn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-agn/archive/master.zip|d43-agn.zip]]
+
+**Recent Changes**
+{{changes>ns = agn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/agn|Ethnologue data]]
+
